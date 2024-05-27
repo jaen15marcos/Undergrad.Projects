@@ -3,7 +3,7 @@ Quantitative Finance Projects
 
 1. Fixed_Income.py is a program in python which enable users to get information of currently trading
 Canadian Government Bonds via web scraping. It is also a calculator of yield curves, spot curves and forward curves 
-via interpolation techniques. Currently working on adding PCA.
+via interpolation techniques. 
 
 2. Merton_.py is a program in python that values a company and calculates the probability of default of such company using the Black-Scholes-Merton (BSM) model over time. The program also has a CreditMetrics-like VaR calculator that with the input of some credit ratings, exposure and recovery rate to access credit risk among other variables is able to yield the Expexted Shortfall and VaR of the Portafolio. 
 
