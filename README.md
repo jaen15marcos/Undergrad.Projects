@@ -1,5 +1,4 @@
-# Math_Modeling
-Quantitative Finance Projects  
+# Undergrad Projects
 
 1. Fixed_Income.py is a program in python which enable users to get information of currently trading
 Canadian Government Bonds via web scraping. It is also a calculator of yield curves, spot curves and forward curves 
